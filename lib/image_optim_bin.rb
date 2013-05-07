@@ -2,8 +2,7 @@ require "image_optim_bin/version"
 
 module ImageOptimBin
   def self.set_env
-    # puts "Loading ENV variables for ImageOptim"
-    if true or (`uname`.to_s.strip == 'Linux' && `uname -m`.to_s.strip == 'x86_64')
+    if `uname`.to_s.strip == 'Linux' && `uname -m`.to_s.strip == 'x86_64'
       %w(jpegoptim  jpegtran  optipng  pngcrush  pngout).each do |name|
         ENV["#{name}_bin".upcase] = File.expand_path(File.join(File.dirname(__FILE__), "..", "bin", name))
       end
