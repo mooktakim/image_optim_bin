@@ -1,6 +1,6 @@
 # ImageOptimBin
 
-Statically compiled bins to make image_optim work on Heroku or Linux
+Statically compiled bins to make [image_optim](https://github.com/toy/image_optim) work on Heroku or Linux
 x86_64 platform.
 
 ## Installation
@@ -21,11 +21,11 @@ Or install it yourself as:
 
 This gem sets ENV variables for the individual bins:
 
-- JPEGOPTIM_BIN
-- JPEGTRAN_BIN
-- OPTIPNG_BIN
-- PNGCRUSH_BIN
-- PNGOUT_BIN
+- `JPEGOPTIM_BIN`
+- `JPEGTRAN_BIN`
+- `OPTIPNG_BIN`
+- `PNGCRUSH_BIN`
+- `PNGOUT_BIN`
 
 ## Contributing
 
