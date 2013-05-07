@@ -1,4 +1,4 @@
-# ImageOptim::Bin
+# ImageOptimBin
 
 Statically compiled bins to make image_optim work on Heroku or Linux
 x86_64 platform.
@@ -7,7 +7,7 @@ x86_64 platform.
 
 Add this line to your application's Gemfile:
 
-    gem 'image_optim-bin'
+    gem 'image_optim_bin'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install image_optim-bin
+    $ gem install image_optim_bin
 
 ## Usage
 
