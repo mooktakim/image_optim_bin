@@ -26,6 +26,7 @@ This gem sets ENV variables for the individual bins:
 - `OPTIPNG_BIN`
 - `PNGCRUSH_BIN`
 - `PNGOUT_BIN`
+- `ADVPNG_BIN`
 
 ## Contributing
 
