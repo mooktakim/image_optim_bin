@@ -27,6 +27,9 @@ This gem sets ENV variables for the individual bins:
 - `PNGCRUSH_BIN`
 - `PNGOUT_BIN`
 - `ADVPNG_BIN`
+- `ADVDEF_BIN`
+- `ADVMNG_BIN`
+- `ADVZIP_BIN`
 
 ## Contributing
 
