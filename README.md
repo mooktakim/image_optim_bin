@@ -30,6 +30,7 @@ This gem sets ENV variables for the individual bins:
 - `ADVDEF_BIN`
 - `ADVMNG_BIN`
 - `ADVZIP_BIN`
+- `GIFSICLE_BIN`
 
 ## Contributing
 
