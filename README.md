@@ -3,6 +3,15 @@
 Statically compiled bins to make [image_optim](https://github.com/toy/image_optim) work on Heroku or Linux
 x86_64 platform.
 
+## Not Maintained
+
+This gem is no longer maintained. It may or may not work for you.
+If you happen to fix something or make it better, pull request will be
+accepted.
+
+Some alternatives:
+- https://github.com/toy/image_optim
+
 ## Installation
 
 Add this line to your application's Gemfile:
